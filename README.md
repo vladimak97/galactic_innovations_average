@@ -12,4 +12,4 @@
 
 5. What was the mean discrepancy between the opening and closing prices?
 
-Answer: =AVERAGE(B2:B125-E2:E125) = -0.29
+**Answer: =AVERAGE(B2:B125-E2:E125) = -0.29**
